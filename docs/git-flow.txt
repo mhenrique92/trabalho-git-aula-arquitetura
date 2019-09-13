@@ -1,0 +1,6 @@
+As principais vantagens do uso do git é a facilidade que ele tras para o compartilhamento do codigo,
+permitindo que varias pessoas tenham acesso ao projeto de forma rapida mesmo estando trabalhando em
+lugares diferentes. Outra vantagem é o controle de versoes do projeto que pode ser controlado pela ordem 
+dos commits, se o projeto apresentar alguma falha ao inves de rever todo ele eu posso simplesmente voltar
+na ultima versão em que o mesmo estava funcionando de forma correta e corrigir a partir dai.A conexão com 
+a rede só é necessária para trocar revisões com outros repositórios. Fora isso, trabalha-se desconectado e em qualquer lugar.
